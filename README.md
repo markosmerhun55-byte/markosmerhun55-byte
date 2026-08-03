@@ -110,9 +110,8 @@ A machine learning application that classifies emails as Spam or Not Spam.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=markosmerhun55-byte&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markosmerhun55-byte&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=markosmerhun55-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=markosmerhun55-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -120,7 +119,7 @@ A machine learning application that classifies emails as Spam or Not Spam.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=markosmerhun55-byte&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markosmerhun55-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -128,7 +127,7 @@ A machine learning application that classifies emails as Spam or Not Spam.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=markosmerhun55-byte&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=markosmerhun55-byte&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -136,7 +135,7 @@ A machine learning application that classifies emails as Spam or Not Spam.
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=markosmerhun55-byte&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=markosmerhun55-byte&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---

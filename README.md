@@ -124,14 +124,6 @@ A machine learning application that classifies emails as Spam or Not Spam.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=markosmerhun55-byte&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">

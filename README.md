@@ -83,7 +83,7 @@ A machine learning application that classifies emails as Spam or Not Spam.
 ## 📫 Contact Me
 
 - 📧 Email: **markosmrhun55@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**
+- 💼 LinkedIn: **[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/merhun-markos-mache-a63a44415?utm_source=share_via&utm_content=profile&utm_medium=member_ios)**
 - 🌐 Portfolio: **https://your-portfolio.com**
 - 💻 GitHub: **https://github.com/markosmerhun55-byte**
 

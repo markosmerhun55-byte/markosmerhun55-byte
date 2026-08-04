@@ -82,7 +82,7 @@ A machine learning application that classifies emails as Spam or Not Spam.
 
 ## 📫 Contact Me
 
-- 📧 Email: **your-email@example.com**
+- 📧 Email: **markosmrhun55@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/your-profile**
 - 🌐 Portfolio: **https://your-portfolio.com**
 - 💻 GitHub: **https://github.com/markosmerhun55-byte**

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Merhun Markos</h1>
+<h1 align="center">Merhun Markos</h1>
 <h3 align="center">Machine Learning Enthusiast | Python Developer | Streamlit Developer</h3>
 
 <p align="center">

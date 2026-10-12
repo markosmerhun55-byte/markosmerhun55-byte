@@ -137,9 +137,7 @@ A predictive machine learning application designed to forecast agricultural crop
 ## 👀 Profile Views
 
 <p align="center">
-  <a href="https://github.com/markosmerhun55-byte/markosmerhun55-byte">
-    <img src="https://komarev.com/ghpvc/?username=markosmerhun55-byte&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </a>
+  ![](https://komarev.com/ghpvc/?username=markosmerhun55-byte&color=0e75b6&style=flat-square)
 </p>
 ---
 

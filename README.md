@@ -76,6 +76,19 @@ A machine learning application that classifies emails as Spam or Not Spam.
 **Tech Stack:** `Python` `Streamlit` `NLP` `Scikit-Learn`
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2" align="center">
+      <h3>🌾 Ethiopian Smallholder Crop-Yield Predictor</h3>
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=600&q=80" width="50%" height="180px" style="object-fit:cover; border-radius:10px;" />
+      </p>
+
+A predictive machine learning application designed to forecast agricultural crop yields for smallholder farmers in Ethiopia.
+
+---
+**Tech Stack:** `Python` `Streamlit` `Machine Learning` `Pandas`
+    </td>
+  </tr>
 </table>
 
 ---

@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Enthusiast | Python Developer | Streamlit Developer</h3>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20God%20we%20trust,%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming" alt="Data Science Quote" />
 </p>
 
 ---

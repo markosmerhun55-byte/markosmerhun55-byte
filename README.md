@@ -135,11 +135,11 @@ A predictive machine learning application designed to forecast agricultural crop
 
 ---
 ## 👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=markosmerhun55-byte&color=0e75b6&style=flat-square)
+  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/markosmerhun55-byte/markosmerhun55-byte.json&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
----
 
 ### 💡 Favorite Quote
 

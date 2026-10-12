@@ -125,19 +125,12 @@ A predictive machine learning application designed to forecast agricultural crop
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markosmerhun55-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markosmerhun55-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/markosmerhun55-byte/markosmerhun55-byte.json&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
 ### 💡 Favorite Quote
 
 > *"The best way to predict the future is to create it."* — Peter Drucker

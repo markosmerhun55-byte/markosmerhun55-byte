@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Enthusiast | Python Developer | Streamlit Developer</h3>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20God%20we%20trust,%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming" alt="Data Science Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 ---
@@ -25,26 +25,26 @@
 
 ### Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Libraries & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
 
 ---
@@ -52,43 +52,30 @@
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏠 House Price Prediction App</h3>
-      <p align="center">
-        <img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=600&q=80" width="100%" height="180px" style="object-fit:cover; border-radius:10px;" />
-      </p>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 House Price Prediction App</h3>
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=600&q=80" width="100%" height="180px" style="object-fit:cover; border-radius:10px;" />
+      </p>
 
 A machine learning application that predicts house prices based on house features.
 
 ---
 **Tech Stack:** `Python` `Streamlit` `Scikit-Learn` `Pandas`
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📧 Email Spam Checker</h3>
-      <p align="center">
-        <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=600&q=80" width="100%" height="180px" style="object-fit:cover; border-radius:10px;" />
-      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📧 Email Spam Checker</h3>
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=600&q=80" width="100%" height="180px" style="object-fit:cover; border-radius:10px;" />
+      </p>
 
 A machine learning application that classifies emails as Spam or Not Spam.
 
 ---
 **Tech Stack:** `Python` `Streamlit` `NLP` `Scikit-Learn`
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2" align="center">
-      <h3>🌾 Ethiopian Smallholder Crop-Yield Predictor</h3>
-      <p align="center">
-        <img src="https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=600&q=80" width="50%" height="180px" style="object-fit:cover; border-radius:10px;" />
-      </p>
-
-A predictive machine learning application designed to forecast agricultural crop yields for smallholder farmers in Ethiopia.
-
----
-**Tech Stack:** `Python` `Streamlit` `Machine Learning` `Pandas`
-    </td>
-  </tr>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -119,11 +106,12 @@ A predictive machine learning application designed to forecast agricultural crop
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=markosmerhun55-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markosmerhun55-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=markosmerhun55-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=markosmerhun55-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -131,7 +119,7 @@ A predictive machine learning application designed to forecast agricultural crop
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markosmerhun55-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markosmerhun55-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -139,9 +127,7 @@ A predictive machine learning application designed to forecast agricultural crop
 ## 👀 Profile Views
 
 <p align="center">
-  <a href="https://github.com/markosmerhun55-byte/markosmerhun55-byte">
-    <img src="https://komarev.com/ghpvc/?username=markosmerhun55-byte&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=markosmerhun55-byte&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---

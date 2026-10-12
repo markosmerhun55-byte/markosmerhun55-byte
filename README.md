@@ -133,11 +133,11 @@ A predictive machine learning application designed to forecast agricultural crop
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markosmerhun55-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=markosmerhun55-byte&color=0e75b6&style=flat-square)
-
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/markosmerhun55-byte/markosmerhun55-byte.json&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 ### 💡 Favorite Quote
 
 > *"The best way to predict the future is to create it."* — Peter Drucker

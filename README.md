@@ -2,9 +2,8 @@
 <h3 align="center">Machine Learning Enthusiast | Python Developer | Streamlit Developer</h3>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20God%20we%20trust,%20all%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming" alt="Data Science Quote" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -119,12 +118,11 @@ A predictive machine learning application designed to forecast agricultural crop
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=markosmerhun55-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=markosmerhun55-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=markosmerhun55-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markosmerhun55-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -136,13 +134,13 @@ A predictive machine learning application designed to forecast agricultural crop
 </p>
 
 ---
-
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=markosmerhun55-byte&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/markosmerhun55-byte/markosmerhun55-byte">
+    <img src="https://komarev.com/ghpvc/?username=markosmerhun55-byte&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
 </p>
-
 ---
 
 ### 💡 Favorite Quote
